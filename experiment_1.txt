@@ -1,0 +1,15 @@
+Exercise 9 Add some text to experiment_1.txt and check the repository status. Then, stage the changes and check the status again. Finally, commit the changes with a message “add data to exp 1”.
+
+Exercise 10 Modify the content of experiment_1.txt and check the repository status. Then, stage and commit the change with a suitable commit message.
+
+Exercise 11 Add some text to experiment_2.txt. Then, stage and commit the changes in one step.
+
+Exercise 12 View the full commit history of the repository.
+
+Exercise 13 Check a compact version of the commit history.
+
+Exercise 14 Display the history of the last two commits
+
+Exercise 15 Compare the differences between the most recent commit and the working directory.
+
+Exercise 16 Compare two specific commits.
